@@ -1,0 +1,18 @@
+{
+  "wheel_id": 73,
+  "structure": "umbrella",
+  "slug": "seocompaniesinaustralia-103",
+  "project": "technical-seo-audit-australia-comparison-s-103",
+  "parent_t1_ref": "seocompaniesinaustralia-001",
+  "node_role": "feeder",
+  "money_target": "seocompaniesinaustralia.com.au",
+  "primary_kw": "technical seo audit australia comparison",
+  "intended_url": "https://technical-seo-audit-australia-comparison-s-103.pages.dev/",
+  "links": [
+    {
+      "target_url": "https://technical-seo-audit-australia-s-151.vercel.app/",
+      "anchor": "technical seo audit australia",
+      "rel": "follow"
+    }
+  ]
+}
